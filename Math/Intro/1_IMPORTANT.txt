@@ -1,0 +1,14 @@
+-> These notes under Math/Intro will accompany a YouTube series called 'Mathematics
+(All of it)' from the channel 'Professor Dave Explains'. As the name suggests, these
+will be introductory level notes.
+
+-> When I feel the necessity to expand on the subject, writing my own words on top,
+I'll do it inside two brackets([[ ]]) like that.
+
+-> Even though english isn't my first language, for the sake of simplicity and 
+establishing a pattern, all of my notes(regarding Math and all other subjects) will
+be in english.
+
+-> Code will not be the focus throughout these notes, or at the very maximum will 
+exist only in the background for deeper knowledge purposes. I won't focus on it
+too much in this series.
