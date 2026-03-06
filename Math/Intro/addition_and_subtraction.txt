@@ -1,0 +1,74 @@
+ADDITION AND SUBTRACTION OF SMALL NUMBERS
+==========================================
+
+-> Math began very simply as part of our language with addition and subtraction.
+
+-> Arithmetics: The first kind of math developed by the human race. It deals with 
+counting numbers and methods to manipulate them. This type of math came from 
+questions like 'How much food we need to survive this winter?', 'How many people are in the tribe?' and so on. This type of math came from practical applications.
+
+-- Addition
+
+-> Addition: It represents the combination of two or more numbers into one number,
+called a 'sum'. For example, having two apples and adding another two apples, we then
+combine all of them into four apples:
+    2 + 2 = 4
+    These symbols represent this process: adding two apples to two apples will give
+    you four apples in total(sum).
+
+-> The symbols that we saw right above are combines into one mathematical object,
+called 'equation'. An equation is an affirmation of equality: We're affirming that
+the part on the left(2 + 2) is equal to the part on the right(4). It is important to 
+know that an equation MUST HAVE an equal sign(=). Without it, this object cannot be
+considered an equation. For example, using only the symbols 2 + 2 does not define 
+an equation, only a mathematical expression.
+
+-> 2 + 2 = 4 reads as 'two plus two equals four', or 'two and two is four'. This is 
+just a symbolic way of representing the idea of adding two object together and 
+obtaining four objects. It is a much more concise way of writing this idea.
+
+-- Subtraction
+
+-> Subtraction: Opposite of addition. It doesn't find the sum of two or more numbers,
+it finds their difference. For example: You have five apples and you eat one of them.
+How many do you have left? This equation can be represented as:
+    5 - 1 = 4
+    Which essentially means that 'five less one is four'. Since we're talking
+    about differences, the number four represents the difference between the 
+    numbers five and one.
+
+-- Relevant Properties
+
+1. Commutation
+    Addition have one property called 'commutative property'. This property tells
+    us that the order of numbers on the left part of the equation does not matter:
+    the left part will still be the same. For example, 3 + 4 = 7 is the same as 
+    writing 4 + 3 = 7. Notice how both equations equal to 7.
+
+    Subtraction on the other hand does not have this property. We can easily see
+    this by trying: 4 - 3 = 1 and 3 - 4 = -1, i.e. the order of the left part of
+    the equation does matter. 
+
+2. Association
+    Addition has another property called 'associative property'. This property 
+    tell us that in a mathematical expression with addition, it does not matter
+    which collection of numbers we decide to add first, the result will still 
+    be the same. For example: 2 + 3 + 5 will equal 10 if we add 2 + 3 and then
+    + 5, or if we add 3 + 5 and then 2.
+
+    Subtraction also do not have this property. 
+
+-- Checking Comprehension
+
+1. Perform the following operations:
+    a) 6 +  13 = 19
+    b) 3 + 8 = 11
+    c) 9 - 5 = 4
+    d) 12 - 10 = 2
+
+2. Choose the correct option:
+
+    a) addition (is/is not) commutative -> is
+    b) addition (is/is not) associative -> is
+    c) subtraction (is/is not) commutative -> is not
+    d) subtraction (is/is not) associative -> is not
